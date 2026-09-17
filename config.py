@@ -18,11 +18,11 @@ OWNER_ID = int(os.environ.get("OWNER_ID", "8731226128"))
 CHANNEL_ID = int(os.environ.get("CHANNEL_ID", "-1003764986353"))
 
 # //FORCE_CHANNEL_ID
-CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003970023561")) 
+CHANNEL_ID2 = int(os.environ.get("CHANNEL_ID2", "-1003766078927")) 
 # ------------------------------------------------
 MONGO_URL = os.environ.get("MONGO_URL", "mongodb+srv://Rkkhan:Rk8829898186@23@cluster0.0ppjoih.mongodb.net/?appName=Cluster0")
 # -----------------------------------------------
-PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003970023561"))
+PREMIUM_LOGS = int(os.environ.get("PREMIUM_LOGS", "-1003766078927"))
 # -----------------------------------------------
 join = '<a href="https://t.me/princepia">✳️ JOIN BACKUP</a>'
 # -----------------------------------------------
